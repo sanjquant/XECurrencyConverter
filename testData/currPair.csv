@@ -1,0 +1,6 @@
+"Amount","FromCurrency","ToCurrency"
+"100","EUR – Euro","GBP – British Pound"
+"200","USD – US Dollar","EUR – Euro"
+"300","CAD – Canadian Dollar","USD – US Dollar"
+"1000","AUD – Australian Dollar","USD – US Dollar"
+"2000","INR – Indian Rupee","USD – US Dollar"
