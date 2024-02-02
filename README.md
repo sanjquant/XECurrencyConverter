@@ -1,10 +1,10 @@
 
  *  ## Test Suite: Currency Conversion Validation
  *  ### Description:
-                  This test suite iterates over a set of currency pairs and amounts defined in a CSV file (`currPair.csv`)
-                  to validate the currency conversion functionality of the Xe Currency Converter application. For each record
-                  in the CSV file, it performs a series of actions to test the conversion from a source currency to a target
-                  currency and compares the converted amount against expected calculations.
+              This test suite iterates over a set of currency pairs and amounts defined in a CSV file (`currPair.csv`)
+              to validate the currency conversion functionality of the Xe Currency Converter application. For each record
+              in the CSV file, it performs a series of actions to test the conversion from a source currency to a target
+              currency and compares the converted amount against expected calculations.
    
  * CSV File Structure:
              - The CSV file should contain columns for `Amount`, `FromCurrency`, and `ToCurrency`.
@@ -47,9 +47,9 @@
            -  It demonstrates advanced Playwright features such as dialog handling, dynamic test generation, and custom utility integration for test assertions.
    
  * ### Tools & Technologies
-        Node JS
-        VS Code
-        JavaScript
+            Node JS
+            VS Code
+            JavaScript
  
  * ### To use this project
               - Step 1 - Download the folder or clone the repository 
@@ -63,4 +63,4 @@
             -  Navigate to the project root folder and run the command :  npx playwright test ./tests/xeCurrConversion.spec.js --grep "@smoketest"
     
  *  ## Test Report :
-             ![image](https://github.com/sanjquant/XECurrencyConverter/assets/88951836/2e2109eb-c856-4e9d-86d8-0973990981f8)
+   ![image](https://github.com/sanjquant/XECurrencyConverter/assets/88951836/2e2109eb-c856-4e9d-86d8-0973990981f8)
