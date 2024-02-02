@@ -1,6 +1,6 @@
 
- *  ### Test Suite: Currency Conversion Validation
- *  ## Description:
+ *  ## Test Suite: Currency Conversion Validation
+ *  ### Description:
          This test suite iterates over a set of currency pairs and amounts defined in a CSV file (`currPair.csv`)
          to validate the currency conversion functionality of the Xe Currency Converter application. For each record
          in the CSV file, it performs a series of actions to test the conversion from a source currency to a target
